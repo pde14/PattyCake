@@ -1,18 +1,6 @@
 # PattyCake
 
 /**
- *Submitted for verification at BscScan.com on 2021-04-16
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-04-07
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-04-07
-*/
-
-/**
     Hi, my name is Patty and I'm making PATTYCAKE token for three reasons:
     
     1. I am sick and tired of shitty, motherfucking devs that dump their fat dev wallets, pull liquidity, make honeypots, or any of the other thousand ways people scam nowadays. If you have ever done this, and you are reading this source code, you can fuck off. I want to create a token that will not rugpull since I will be 
@@ -34,7 +22,7 @@
     10,000,000,000 total supply (10 Billion).
     
     TELEGRAM: https://t.me/pattycaketoken
-    WEBSITE: 
+    WEBSITE: https://www.instagram.com/patricia.eguino
     
     
   */
@@ -733,7 +721,7 @@ contract PATTYCAKE is Context, IERC20, Ownable {
     address[] private _excluded;
    
     uint256 private constant MAX = ~uint256(0);
-    uint256 private _tTotal = 100000000000 * 10**6 * 10**9;
+    uint256 private _tTotal = 100000 * 10**6 * 10**9;
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
@@ -753,8 +741,8 @@ contract PATTYCAKE is Context, IERC20, Ownable {
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = true;
     
-    uint256 public _maxTxAmount = 500000000 * 10**3 * 10**9;
-    uint256 private numTokensSellToAddToLiquidity = 50000000 * 10**3 * 10**9;
+    uint256 public _maxTxAmount = 50000 * 10**3 * 10**9;
+    uint256 private numTokensSellToAddToLiquidity = 250 * 10**3 * 10**9;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
