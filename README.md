@@ -31,7 +31,7 @@
     - 1.2% fee per transaction auto distributed to holders
     - 0.8% fee per transaction auto burned
     
-    100,000,000,000,000,000 total supply (100 Quadrillion).
+    10,000,000,000 total supply (10 Billion).
     
     TELEGRAM: https://t.me/pattycaketoken
     WEBSITE: 
