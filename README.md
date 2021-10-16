@@ -3,10 +3,10 @@
 /**
     Hi, my name is Patty and I'm making PATTYCAKE token for three reasons:
     
-    1. I am sick and tired of shitty, motherfucking devs that dump their fat dev wallets, pull liquidity, make honeypots, or any of the other thousand ways people scam nowadays. If you have ever done this, and you are reading this source code, you can fuck off. I want to create a token that will not rugpull since I will be 
+    1. I am sick and tired of devs that dump their fat dev wallets, pull liquidity, make honeypots, or any of the other thousand ways people scam nowadays. If you have ever done this, and you are reading this source code. I want to create a token that will not rugpull since I will be 
     renouncing and all that. 
     
-    2. This is a good solidity experiment and will help me learn how to code.
+    2. I want to continuously improve my Solidity skills.
     
     3. Give more exposure to my art and create NFTs!
     
